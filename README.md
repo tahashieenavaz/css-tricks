@@ -1,4 +1,5 @@
-# CSS Tricks
+- [Class-Prefixed Buttons](#class-prefixed-buttons)
+
 
 ## Class-Prefixed Buttons
 
